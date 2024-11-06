@@ -1,8 +1,7 @@
 # 👋 Hi
-
 I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for dumb projects, game dev, and trying new technology.
 
-## 🛠️ Skills & Technologies
+## TECHNOLOGIES
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -12,5 +11,18 @@ I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 📊 Stats
+## DEVICES
+* **MacBook**
+  - **OS:** 15.0 BETA
+  - **CPU:** M3 PRO
+  - **GPU:** M3 PRO
+  - **RAM:** 18gb
+
+* **PC**
+  - **OS:** Windows 11 PRO
+  - **CPU:** AMD Ryzen 7 2700x 8 Core (16 CPUs) ~3.7GHz
+  - **GPU:** Nvidia GeForce RTX 2070 SUPER
+  - **RAM:** 32gb
+
+## STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alachhman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
