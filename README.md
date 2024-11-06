@@ -1,4 +1,4 @@
-# 👋 Hi
+# Antnee
 I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for dumb projects, game dev, and keyboards.
 
 ## TECHNOLOGIES
