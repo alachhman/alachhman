@@ -13,4 +13,4 @@ I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## 📊 Stats
-[![Antnee's GitHub stats](https://github-readme-stats.vercel.app/api?username=alachhman)](https://github.com/anuraghazra/github-readme-stats)
+[![Antnee's GitHub stats](https://github-readme-stats.vercel.app/api?username=alachhman)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
