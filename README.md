@@ -1,4 +1,5 @@
-# HI
+![header](https://github.com/alachhman/alachhman/blob/main/header.png)
+#
 I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for dumb projects, game dev, and keyboards.
 
 ## TECHNOLOGIES
