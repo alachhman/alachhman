@@ -1,5 +1,5 @@
 # 👋 Hi
-I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for dumb projects, game dev, and trying new technology.
+I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for dumb projects, game dev, and keyboards.
 
 ## TECHNOLOGIES
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -11,7 +11,7 @@ I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## DEVICES
+## MACHINES
 * **MacBook**
   - **OS:** 15.0 BETA
   - **CPU:** M3 PRO
@@ -23,6 +23,22 @@ I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for 
   - **CPU:** AMD Ryzen 7 2700x 8 Core (16 CPUs) ~3.7GHz
   - **GPU:** Nvidia GeForce RTX 2070 SUPER
   - **RAM:** 32gb
+
+## KEYBOARDS
+* **Ikki 68 Aurora V2**
+  - **Switches:** Gateron Milky Yellow (L/F)
+  - **Keycaps:** ESC POM Ink Black
+  - **Plate:** Aluminum
+ 
+* **Mode Sonnet**
+  - **Switches:** SP Star Meteor (L/F)
+  - **Keycaps:** PBT Pure Black
+  - **Plate:** Aluminum
+ 
+* **Lofree Flow Lite**
+  - **Switches:** Lofree Hades Silent (L/F)
+  - **Keycaps:** Lofree PBT
+  - **Plate:** POM
 
 ## STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alachhman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
