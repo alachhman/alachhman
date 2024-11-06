@@ -1,6 +1,6 @@
 ![header](https://github.com/alachhman/alachhman/blob/main/header.png)
 #
-I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for dumb projects, game dev, and keyboards.
+I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for fun projects, game development, and finance.
 
 ## TECHNOLOGIES
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
