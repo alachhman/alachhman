@@ -9,7 +9,6 @@ I'm a **Full-Stack Engineer** currently working at **FRBNY** with a passion for 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alachhman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
